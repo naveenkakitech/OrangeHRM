@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-14T06:05:58 IST" name="Default suite" finished-at="2025-04-14T06:06:32 IST" duration-ms="33622">
+    <groups>
+    </groups>
+    <test started-at="2025-04-14T06:05:58 IST" name="Default test" finished-at="2025-04-14T06:06:32 IST" duration-ms="33622">
+      <class name="orangehrm_automation.orangehrm_automation.OrangeHRMTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:orangehrm_automation.orangehrm_automation.OrangeHRMTest@6e9a5ed8]" started-at="2025-04-14T06:05:58 IST" name="setup" finished-at="2025-04-14T06:06:05 IST" duration-ms="7047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testEmployeeFlow()[pri:0, instance:orangehrm_automation.orangehrm_automation.OrangeHRMTest@6e9a5ed8]" started-at="2025-04-14T06:06:05 IST" name="testEmployeeFlow" finished-at="2025-04-14T06:06:32 IST" duration-ms="26238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmployeeFlow -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:orangehrm_automation.orangehrm_automation.OrangeHRMTest@6e9a5ed8]" started-at="2025-04-14T06:06:32 IST" name="teardown" finished-at="2025-04-14T06:06:32 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- orangehrm_automation.orangehrm_automation.OrangeHRMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
